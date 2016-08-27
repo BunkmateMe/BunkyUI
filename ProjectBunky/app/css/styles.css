@@ -1,0 +1,26 @@
+/* styles.css */
+html,
+body{
+    height: 100%;
+}
+
+/* cover */
+#cover {
+    background: #222 url('/app/img/hdcity.jpg') no-repeat;
+    background-size:cover;
+    color: lightcyan;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+#cover-caption{
+    width: 100%;
+}
+
+/* class for h1 */
+.up{
+    font-size: 70px;
+    font-family: fantasy;
+    color: coral;
+}
